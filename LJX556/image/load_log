@@ -1,0 +1,118 @@
+[2023/12/5 08:13:14] [InitBiliDownload]: {"cookie":"","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) bilibili_pc/1.12.5 Chrome/106.0.5249.199 Electron/21.3.3 Safari/537.36","cachePath":"C:\\Users\\ljx\\Videos\\bilibili","parallel":1,"proxyAgent":null}
+[2023/12/5 08:13:17] [getVideoList]: Total: 0
+[2023/12/5 08:13:17] [stopLoadList]: []
+[2023/12/5 08:13:17] [getVideoList]: Total: 0
+[2023/12/5 08:13:43] [updataConfig]: {"cookie":"buvid3=2F0FD5EDCB0DCFC5B4E0855023120500; mobi_app=pc_electron; platform=web; device=win; device_id=408ed57f-51a1-f045-ad68-dc520a765f61; innersign=0; b_nut=1701735200; buvid4=7F56ABE0-2DCB-BDA2-9DB1-510D3C73BA6100745-023120500-; SESSDATA=5c22e75d%2C1717287222%2C7fc0f%2Ac1CjCTIZhmwh-8YK35DkHrmF5tyvMoYivuuG2JZDv7tshwuWyXGwJ2b5QFspg0NL0DcvoSVi1PWGVlUHludzhGcGwyMkw2blR6ZjYwUjlNcDdReDRSaXBKcFVhWG1jcjlFOFkwVGc1WXJxSkhSRW1wX25ZZ1hmc0hvd0wxd3NRWnktQ1pfd01VX1FnIIEC; bili_jct=781121ebe2413d87a67a5cc2d4aefd46; DedeUserID=499372847; DedeUserID__ckMd5=05c6f683560788e3; sid=grduirqg","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) bilibili_pc/1.12.5 Chrome/106.0.5249.199 Electron/21.3.3 Safari/537.36","cachePath":"C:\\Users\\ljx\\Videos\\bilibili","parallel":1,"proxyAgent":null}
+[2023/12/5 08:13:43] [setConfig]: {"cookie":"buvid3=2F0FD5EDCB0DCFC5B4E0855023120500; mobi_app=pc_electron; platform=web; device=win; device_id=408ed57f-51a1-f045-ad68-dc520a765f61; innersign=0; b_nut=1701735200; buvid4=7F56ABE0-2DCB-BDA2-9DB1-510D3C73BA6100745-023120500-; SESSDATA=5c22e75d%2C1717287222%2C7fc0f%2Ac1CjCTIZhmwh-8YK35DkHrmF5tyvMoYivuuG2JZDv7tshwuWyXGwJ2b5QFspg0NL0DcvoSVi1PWGVlUHludzhGcGwyMkw2blR6ZjYwUjlNcDdReDRSaXBKcFVhWG1jcjlFOFkwVGc1WXJxSkhSRW1wX25ZZ1hmc0hvd0wxd3NRWnktQ1pfd01VX1FnIIEC; bili_jct=781121ebe2413d87a67a5cc2d4aefd46; DedeUserID=499372847; DedeUserID__ckMd5=05c6f683560788e3; sid=grduirqg","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) bilibili_pc/1.12.5 Chrome/106.0.5249.199 Electron/21.3.3 Safari/537.36","proxyAgent":null,"cachePath":"C:\\Users\\ljx\\Videos\\bilibili","parallel":1}
+[2023/12/5 08:13:43] [getVideoList]: Total: 0
+[2023/12/5 08:14:19] [getVideoList]: Total: 0
+[2023/12/5 08:14:24] [updataConfig]: {"cookie":"buvid3=2F0FD5EDCB0DCFC5B4E0855023120500; mobi_app=pc_electron; platform=web; device=win; device_id=408ed57f-51a1-f045-ad68-dc520a765f61; innersign=0; b_nut=1701735200; buvid4=7F56ABE0-2DCB-BDA2-9DB1-510D3C73BA6100745-023120500-; SESSDATA=5c22e75d%2C1717287222%2C7fc0f%2Ac1CjCTIZhmwh-8YK35DkHrmF5tyvMoYivuuG2JZDv7tshwuWyXGwJ2b5QFspg0NL0DcvoSVi1PWGVlUHludzhGcGwyMkw2blR6ZjYwUjlNcDdReDRSaXBKcFVhWG1jcjlFOFkwVGc1WXJxSkhSRW1wX25ZZ1hmc0hvd0wxd3NRWnktQ1pfd01VX1FnIIEC; bili_jct=781121ebe2413d87a67a5cc2d4aefd46; DedeUserID=499372847; DedeUserID__ckMd5=05c6f683560788e3; sid=grduirqg","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) bilibili_pc/1.12.5 Chrome/106.0.5249.199 Electron/21.3.3 Safari/537.36","cachePath":"C:\\Users\\ljx\\Videos\\bilibili","parallel":1,"proxyAgent":null}
+[2023/12/5 08:14:24] [setConfig]: {"cookie":"buvid3=2F0FD5EDCB0DCFC5B4E0855023120500; mobi_app=pc_electron; platform=web; device=win; device_id=408ed57f-51a1-f045-ad68-dc520a765f61; innersign=0; b_nut=1701735200; buvid4=7F56ABE0-2DCB-BDA2-9DB1-510D3C73BA6100745-023120500-; SESSDATA=5c22e75d%2C1717287222%2C7fc0f%2Ac1CjCTIZhmwh-8YK35DkHrmF5tyvMoYivuuG2JZDv7tshwuWyXGwJ2b5QFspg0NL0DcvoSVi1PWGVlUHludzhGcGwyMkw2blR6ZjYwUjlNcDdReDRSaXBKcFVhWG1jcjlFOFkwVGc1WXJxSkhSRW1wX25ZZ1hmc0hvd0wxd3NRWnktQ1pfd01VX1FnIIEC; bili_jct=781121ebe2413d87a67a5cc2d4aefd46; DedeUserID=499372847; DedeUserID__ckMd5=05c6f683560788e3; sid=grduirqg","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) bilibili_pc/1.12.5 Chrome/106.0.5249.199 Electron/21.3.3 Safari/537.36","proxyAgent":null,"cachePath":"C:\\Users\\ljx\\Videos\\bilibili","parallel":1}
+[2023/12/5 08:14:24] [getVideoList]: Total: 0
+[2023/12/5 08:14:24] [appendLoadList]: [{"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911}]
+[2023/12/5 08:14:24] [getVideoList]: Total: 1
+[2023/12/5 08:14:24] [startLoadList]: [{"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911}]
+[2023/12/5 08:14:24] [loadPlayurl]: {"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911}
+[2023/12/5 08:14:24] [imgStart]: {"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911,"url":"http://i2.hdslb.com/bfs/archive/f2471cfd0ec612d029c488c03085e0bda0d50442.jpg"}
+[2023/12/5 08:14:24] [groupImgStart]: {"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911,"url":"https://archive.biliimg.com/bfs/archive/ed49009f17636895f3eb72973b239821cb07b11f.jpg"}
+[2023/12/5 08:14:24] [getVideoList]: Total: 1
+[2023/12/5 08:14:24] [startLoad]: {"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911}
+[2023/12/5 08:14:24] [dmViewStart]: https://api.bilibili.com/x/v2/dm/web/view?type=1&oid=1114003911&pid=825588725
+[2023/12/5 08:14:24] [dmStart]: https://api.bilibili.com/x/v2/dm/web/seg.so?type=1&oid=1114003911&pid=825588725&segment_index=1
+[2023/12/5 08:14:24] [getVideoList]: Total: 1
+[2023/12/5 08:14:24] [dmViewEnd]: https://api.bilibili.com/x/v2/dm/web/view?type=1&oid=1114003911&pid=825588725
+[2023/12/5 08:14:24] [dmEnd]: https://api.bilibili.com/x/v2/dm/web/seg.so?type=1&oid=1114003911&pid=825588725&segment_index=1
+[2023/12/5 08:14:24] [checkHeader]: 1114003911
+[2023/12/5 08:14:24] [checkHeader]: 1114003911
+[2023/12/5 08:14:25] [playurlErr]: 1114003911
+[2023/12/5 08:14:25] [videoLoadStart]: 开始下载视频
+[2023/12/5 08:14:25] [audioLoadStart]: 1114003911
+[2023/12/5 08:14:25] [loadAudioEnd]: https://cn-hbwh-fx-01-08.bilivideo.com/upgcxcode/11/39/1114003911/1114003911_u1-1-30280.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1701742464&gen=playurlv2&os=bcache&oi=1939639433&trid=000097cc8c442a784c399cdecdb0e7ef023cu&mid=499372847&platform=pc&upsig=46aef32afe9de0ed0d2eb6263439214c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&cdnid=3878&bvc=vod&nettype=0&orderid=0,3&buvid=2F0FD5EDCB0DCFC5B4E0855023120500&build=0&f=u_0_0&agrr=1&bw=24544&np=151388311&logo=80000000
+[2023/12/5 08:14:25] [audioClose]: audio文件已关闭：{"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911}
+[2023/12/5 08:14:31] [loadVideoEnd]: {"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911}
+[2023/12/5 08:14:31] [cancel]: ["videoUrl1114003911","audioUrl1114003911"]
+[2023/12/5 08:14:31] [loadVideoAbort]: {"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911}
+[2023/12/5 08:14:31] [loadAudioAbort]: 暂停下载视频: {"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911}
+[2023/12/5 08:14:31] [videoClose]: video文件已关闭：{"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911}
+[2023/12/5 08:14:31] [destoryLoad]: {"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911}
+[2023/12/5 08:14:31] [cancel]: []
+[2023/12/5 08:14:31] [getVideoList]: Total: 1
+[2023/12/5 08:14:31] [getVideoList]: Total: 1
+[2023/12/5 08:14:31] [completed]: {"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911}
+[2023/12/5 08:14:31] [getVideoItem]: {"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911}
+[2023/12/5 08:14:31] [getLocalPlayurl]: 1114003911
+[2023/12/5 08:17:15] [stopLoadList]: []
+[2023/12/5 08:17:15] [getVideoList]: Total: 1
+[2023/12/5 08:17:15] [updataConfig]: {"cookie":"buvid3=2F0FD5EDCB0DCFC5B4E0855023120500; mobi_app=pc_electron; platform=web; device=win; device_id=408ed57f-51a1-f045-ad68-dc520a765f61; innersign=0; b_nut=1701735200; buvid4=7F56ABE0-2DCB-BDA2-9DB1-510D3C73BA6100745-023120500-; SESSDATA=5c22e75d%2C1717287222%2C7fc0f%2Ac1CjCTIZhmwh-8YK35DkHrmF5tyvMoYivuuG2JZDv7tshwuWyXGwJ2b5QFspg0NL0DcvoSVi1PWGVlUHludzhGcGwyMkw2blR6ZjYwUjlNcDdReDRSaXBKcFVhWG1jcjlFOFkwVGc1WXJxSkhSRW1wX25ZZ1hmc0hvd0wxd3NRWnktQ1pfd01VX1FnIIEC; bili_jct=781121ebe2413d87a67a5cc2d4aefd46; DedeUserID=499372847; DedeUserID__ckMd5=05c6f683560788e3; sid=grduirqg","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) bilibili_pc/1.12.5 Chrome/106.0.5249.199 Electron/21.3.3 Safari/537.36","cachePath":"C:\\Users\\ljx\\Desktop\\LJX556\\image","parallel":1,"proxyAgent":null}
+[2023/12/5 08:17:15] [setConfig]: {"cookie":"buvid3=2F0FD5EDCB0DCFC5B4E0855023120500; mobi_app=pc_electron; platform=web; device=win; device_id=408ed57f-51a1-f045-ad68-dc520a765f61; innersign=0; b_nut=1701735200; buvid4=7F56ABE0-2DCB-BDA2-9DB1-510D3C73BA6100745-023120500-; SESSDATA=5c22e75d%2C1717287222%2C7fc0f%2Ac1CjCTIZhmwh-8YK35DkHrmF5tyvMoYivuuG2JZDv7tshwuWyXGwJ2b5QFspg0NL0DcvoSVi1PWGVlUHludzhGcGwyMkw2blR6ZjYwUjlNcDdReDRSaXBKcFVhWG1jcjlFOFkwVGc1WXJxSkhSRW1wX25ZZ1hmc0hvd0wxd3NRWnktQ1pfd01VX1FnIIEC; bili_jct=781121ebe2413d87a67a5cc2d4aefd46; DedeUserID=499372847; DedeUserID__ckMd5=05c6f683560788e3; sid=grduirqg","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) bilibili_pc/1.12.5 Chrome/106.0.5249.199 Electron/21.3.3 Safari/537.36","proxyAgent":null,"cachePath":"C:\\Users\\ljx\\Desktop\\LJX556\\image","parallel":1}
+[2023/12/5 08:17:15] [getVideoList]: Total: 0
+[2023/12/5 08:17:28] [getVideoList]: Total: 0
+[2023/12/5 08:17:31] [updataConfig]: {"cookie":"buvid3=2F0FD5EDCB0DCFC5B4E0855023120500; mobi_app=pc_electron; platform=web; device=win; device_id=408ed57f-51a1-f045-ad68-dc520a765f61; innersign=0; b_nut=1701735200; buvid4=7F56ABE0-2DCB-BDA2-9DB1-510D3C73BA6100745-023120500-; SESSDATA=5c22e75d%2C1717287222%2C7fc0f%2Ac1CjCTIZhmwh-8YK35DkHrmF5tyvMoYivuuG2JZDv7tshwuWyXGwJ2b5QFspg0NL0DcvoSVi1PWGVlUHludzhGcGwyMkw2blR6ZjYwUjlNcDdReDRSaXBKcFVhWG1jcjlFOFkwVGc1WXJxSkhSRW1wX25ZZ1hmc0hvd0wxd3NRWnktQ1pfd01VX1FnIIEC; bili_jct=781121ebe2413d87a67a5cc2d4aefd46; DedeUserID=499372847; DedeUserID__ckMd5=05c6f683560788e3; sid=grduirqg","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) bilibili_pc/1.12.5 Chrome/106.0.5249.199 Electron/21.3.3 Safari/537.36","cachePath":"C:\\Users\\ljx\\Desktop\\LJX556\\image","parallel":1,"proxyAgent":null}
+[2023/12/5 08:17:31] [setConfig]: {"cookie":"buvid3=2F0FD5EDCB0DCFC5B4E0855023120500; mobi_app=pc_electron; platform=web; device=win; device_id=408ed57f-51a1-f045-ad68-dc520a765f61; innersign=0; b_nut=1701735200; buvid4=7F56ABE0-2DCB-BDA2-9DB1-510D3C73BA6100745-023120500-; SESSDATA=5c22e75d%2C1717287222%2C7fc0f%2Ac1CjCTIZhmwh-8YK35DkHrmF5tyvMoYivuuG2JZDv7tshwuWyXGwJ2b5QFspg0NL0DcvoSVi1PWGVlUHludzhGcGwyMkw2blR6ZjYwUjlNcDdReDRSaXBKcFVhWG1jcjlFOFkwVGc1WXJxSkhSRW1wX25ZZ1hmc0hvd0wxd3NRWnktQ1pfd01VX1FnIIEC; bili_jct=781121ebe2413d87a67a5cc2d4aefd46; DedeUserID=499372847; DedeUserID__ckMd5=05c6f683560788e3; sid=grduirqg","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) bilibili_pc/1.12.5 Chrome/106.0.5249.199 Electron/21.3.3 Safari/537.36","proxyAgent":null,"cachePath":"C:\\Users\\ljx\\Desktop\\LJX556\\image","parallel":1}
+[2023/12/5 08:17:31] [getVideoList]: Total: 0
+[2023/12/5 08:17:31] [appendLoadList]: [{"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911}]
+[2023/12/5 08:17:31] [getVideoList]: Total: 1
+[2023/12/5 08:17:31] [startLoadList]: [{"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911}]
+[2023/12/5 08:17:31] [loadPlayurl]: {"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911}
+[2023/12/5 08:17:31] [imgStart]: {"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911,"url":"http://i2.hdslb.com/bfs/archive/f2471cfd0ec612d029c488c03085e0bda0d50442.jpg"}
+[2023/12/5 08:17:31] [startLoad]: {"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911}
+[2023/12/5 08:17:31] [dmViewStart]: https://api.bilibili.com/x/v2/dm/web/view?type=1&oid=1114003911&pid=825588725
+[2023/12/5 08:17:31] [dmStart]: https://api.bilibili.com/x/v2/dm/web/seg.so?type=1&oid=1114003911&pid=825588725&segment_index=1
+[2023/12/5 08:17:31] [groupImgStart]: {"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911,"url":"https://archive.biliimg.com/bfs/archive/ed49009f17636895f3eb72973b239821cb07b11f.jpg"}
+[2023/12/5 08:17:31] [getVideoList]: Total: 1
+[2023/12/5 08:17:32] [checkHeader]: 1114003911
+[2023/12/5 08:17:32] [dmViewEnd]: https://api.bilibili.com/x/v2/dm/web/view?type=1&oid=1114003911&pid=825588725
+[2023/12/5 08:17:32] [checkHeader]: 1114003911
+[2023/12/5 08:17:32] [dmEnd]: https://api.bilibili.com/x/v2/dm/web/seg.so?type=1&oid=1114003911&pid=825588725&segment_index=1
+[2023/12/5 08:17:32] [playurlErr]: 1114003911
+[2023/12/5 08:17:32] [videoLoadStart]: 开始下载视频
+[2023/12/5 08:17:32] [audioLoadStart]: 1114003911
+[2023/12/5 08:17:32] [loadAudioEnd]: https://cn-hbwh-fx-01-08.bilivideo.com/upgcxcode/11/39/1114003911/1114003911_u1-1-30280.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1701742651&gen=playurlv2&os=bcache&oi=1939639433&trid=00001789b8448583424abc5aa70fd87764a9u&mid=499372847&platform=pc&upsig=1ff15871dab1eee7665d0d13842c6115&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&cdnid=3878&bvc=vod&nettype=0&orderid=0,3&buvid=2F0FD5EDCB0DCFC5B4E0855023120500&build=0&f=u_0_0&agrr=1&bw=24544&np=151388311&logo=80000000
+[2023/12/5 08:17:32] [audioClose]: audio文件已关闭：{"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911}
+[2023/12/5 08:17:37] [loadVideoEnd]: {"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911}
+[2023/12/5 08:17:37] [cancel]: ["audioUrl1114003911","videoUrl1114003911"]
+[2023/12/5 08:17:37] [loadAudioAbort]: 暂停下载视频: {"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911}
+[2023/12/5 08:17:37] [loadVideoAbort]: {"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911}
+[2023/12/5 08:17:37] [videoClose]: video文件已关闭：{"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911}
+[2023/12/5 08:17:37] [destoryLoad]: {"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911}
+[2023/12/5 08:17:37] [cancel]: []
+[2023/12/5 08:17:37] [getVideoList]: Total: 1
+[2023/12/5 08:17:37] [getVideoList]: Total: 1
+[2023/12/5 08:17:37] [completed]: {"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911}
+[2023/12/5 08:17:37] [getVideoItem]: {"title":"【原神】全 盛 纳 西 妲 .mp4","cid":1114003911}
+[2023/12/5 08:17:37] [getLocalPlayurl]: 1114003911
+[2023/12/5 08:17:54] [getVideoList]: Total: 1
+[2023/12/5 08:17:57] [updataConfig]: {"cookie":"buvid3=2F0FD5EDCB0DCFC5B4E0855023120500; mobi_app=pc_electron; platform=web; device=win; device_id=408ed57f-51a1-f045-ad68-dc520a765f61; innersign=0; b_nut=1701735200; buvid4=7F56ABE0-2DCB-BDA2-9DB1-510D3C73BA6100745-023120500-; SESSDATA=5c22e75d%2C1717287222%2C7fc0f%2Ac1CjCTIZhmwh-8YK35DkHrmF5tyvMoYivuuG2JZDv7tshwuWyXGwJ2b5QFspg0NL0DcvoSVi1PWGVlUHludzhGcGwyMkw2blR6ZjYwUjlNcDdReDRSaXBKcFVhWG1jcjlFOFkwVGc1WXJxSkhSRW1wX25ZZ1hmc0hvd0wxd3NRWnktQ1pfd01VX1FnIIEC; bili_jct=781121ebe2413d87a67a5cc2d4aefd46; DedeUserID=499372847; DedeUserID__ckMd5=05c6f683560788e3; sid=grduirqg","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) bilibili_pc/1.12.5 Chrome/106.0.5249.199 Electron/21.3.3 Safari/537.36","cachePath":"C:\\Users\\ljx\\Desktop\\LJX556\\image","parallel":1,"proxyAgent":null}
+[2023/12/5 08:17:57] [setConfig]: {"cookie":"buvid3=2F0FD5EDCB0DCFC5B4E0855023120500; mobi_app=pc_electron; platform=web; device=win; device_id=408ed57f-51a1-f045-ad68-dc520a765f61; innersign=0; b_nut=1701735200; buvid4=7F56ABE0-2DCB-BDA2-9DB1-510D3C73BA6100745-023120500-; SESSDATA=5c22e75d%2C1717287222%2C7fc0f%2Ac1CjCTIZhmwh-8YK35DkHrmF5tyvMoYivuuG2JZDv7tshwuWyXGwJ2b5QFspg0NL0DcvoSVi1PWGVlUHludzhGcGwyMkw2blR6ZjYwUjlNcDdReDRSaXBKcFVhWG1jcjlFOFkwVGc1WXJxSkhSRW1wX25ZZ1hmc0hvd0wxd3NRWnktQ1pfd01VX1FnIIEC; bili_jct=781121ebe2413d87a67a5cc2d4aefd46; DedeUserID=499372847; DedeUserID__ckMd5=05c6f683560788e3; sid=grduirqg","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) bilibili_pc/1.12.5 Chrome/106.0.5249.199 Electron/21.3.3 Safari/537.36","proxyAgent":null,"cachePath":"C:\\Users\\ljx\\Desktop\\LJX556\\image","parallel":1}
+[2023/12/5 08:17:57] [getVideoList]: Total: 1
+[2023/12/5 08:17:57] [appendLoadList]: [{"title":"【4K60帧】AI修复补帧版","cid":287639008}]
+[2023/12/5 08:17:57] [getVideoList]: Total: 2
+[2023/12/5 08:17:57] [startLoadList]: [{"title":"【4K60帧】AI修复补帧版","cid":287639008}]
+[2023/12/5 08:17:57] [loadPlayurl]: {"title":"【4K60帧】AI修复补帧版","cid":287639008}
+[2023/12/5 08:17:57] [imgStart]: {"title":"【4K60帧】AI修复补帧版","cid":287639008,"url":"http://i1.hdslb.com/bfs/archive/47d93e3d993ce921149e181760db307ee151547e.jpg"}
+[2023/12/5 08:17:57] [groupImgStart]: {"title":"【4K60帧】AI修复补帧版","cid":287639008,"url":"http://i1.hdslb.com/bfs/archive/47d93e3d993ce921149e181760db307ee151547e.jpg"}
+[2023/12/5 08:17:57] [startLoad]: {"title":"【4K60帧】AI修复补帧版","cid":287639008}
+[2023/12/5 08:17:57] [dmViewStart]: https://api.bilibili.com/x/v2/dm/web/view?type=1&oid=287639008&pid=928861104
+[2023/12/5 08:17:57] [dmStart]: https://api.bilibili.com/x/v2/dm/web/seg.so?type=1&oid=287639008&pid=928861104&segment_index=1
+[2023/12/5 08:17:57] [getVideoList]: Total: 2
+[2023/12/5 08:17:57] [dmViewEnd]: https://api.bilibili.com/x/v2/dm/web/view?type=1&oid=287639008&pid=928861104
+[2023/12/5 08:17:57] [checkHeader]: 287639008
+[2023/12/5 08:17:57] [checkHeader]: 287639008
+[2023/12/5 08:17:57] [playurlErr]: 287639008
+[2023/12/5 08:17:57] [videoLoadStart]: 开始下载视频
+[2023/12/5 08:17:57] [audioLoadStart]: 287639008
+[2023/12/5 08:17:57] [dmEnd]: https://api.bilibili.com/x/v2/dm/web/seg.so?type=1&oid=287639008&pid=928861104&segment_index=1
+[2023/12/5 08:17:57] [loadAudioEnd]: https://cn-hbwh-fx-01-01.bilivideo.com/upgcxcode/08/90/287639008/287639008_da2-1-30280.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1701742676&gen=playurlv2&os=bcache&oi=1939639433&trid=00002b7474aa64be43e3a6307b59e82c4317u&mid=499372847&platform=pc&upsig=74fae06544aed0d3938291a8326697e0&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&cdnid=3871&bvc=vod&nettype=0&orderid=0,3&buvid=2F0FD5EDCB0DCFC5B4E0855023120500&build=0&f=u_0_0&agrr=1&bw=14721&np=151388311&logo=80000000
+[2023/12/5 08:17:57] [audioClose]: audio文件已关闭：{"title":"【4K60帧】AI修复补帧版","cid":287639008}
+[2023/12/5 08:18:01] [loadVideoEnd]: {"title":"【4K60帧】AI修复补帧版","cid":287639008}
+[2023/12/5 08:18:01] [cancel]: ["videoUrl287639008","audioUrl287639008"]
+[2023/12/5 08:18:01] [loadVideoAbort]: {"title":"【4K60帧】AI修复补帧版","cid":287639008}
+[2023/12/5 08:18:01] [loadAudioAbort]: 暂停下载视频: {"title":"【4K60帧】AI修复补帧版","cid":287639008}
+[2023/12/5 08:18:01] [videoClose]: video文件已关闭：{"title":"【4K60帧】AI修复补帧版","cid":287639008}
+[2023/12/5 08:18:01] [destoryLoad]: {"title":"【4K60帧】AI修复补帧版","cid":287639008}
+[2023/12/5 08:18:01] [cancel]: []
+[2023/12/5 08:18:01] [getVideoList]: Total: 2
+[2023/12/5 08:18:01] [getVideoList]: Total: 2
+[2023/12/5 08:18:01] [completed]: {"title":"【4K60帧】AI修复补帧版","cid":287639008}
+[2023/12/5 08:18:01] [getVideoItem]: {"title":"【4K60帧】AI修复补帧版","cid":287639008}
+[2023/12/5 08:18:01] [getLocalPlayurl]: 287639008
